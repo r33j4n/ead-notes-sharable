@@ -2,12 +2,6 @@ CA - 40%
 End semester Exam - 60%
 [[J2EE (Java 2 Platform, Enterprise Edition)]]
 [[Design Patterns]]
-## What is the difference between Software Developer and Software Engineer?
-
-## What is Enterprise Application Development ?
-## What is Design Patterns ?
-
-
 [[Enterprise Application-Basics]]
 [[Enterprise Application Integration (EAI)]]
 [[EAD Assignment]]
