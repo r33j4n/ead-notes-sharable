@@ -23,6 +23,8 @@ End semester Exam - 60%
 	6. [[Layered Architecture]]
 	7. [[Serverless Architecture]]
 [[Error Handling and Exception Management]]
+[[Authentication]]
+[[0Auth 2.0]]
 
 
 
